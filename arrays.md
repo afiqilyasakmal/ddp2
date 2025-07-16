@@ -4,6 +4,6 @@ layout: home
 nav_order: 6
 ---
 
-# Object and Classes
+# Arrays
 
 Halaman ini akan segera di-update.
