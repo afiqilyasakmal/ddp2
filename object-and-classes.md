@@ -1,5 +1,6 @@
 ---
 title: Object and Classes
+layout: home
 nav_order: 2
 ---
 
