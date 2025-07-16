@@ -1,9 +1,9 @@
 ---
-title: Arrays
+title: Generics
 layout: home
-nav_order: 6
+nav_order: 14
 ---
 
-# Object and Classes
+# Generics
 
 Halaman ini akan segera di-update.

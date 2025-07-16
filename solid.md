@@ -1,9 +1,9 @@
 ---
-title: Arrays
+title: SOLID Principles
 layout: home
-nav_order: 6
+nav_order: 13
 ---
 
-# Object and Classes
+# SOLID Principles
 
 Halaman ini akan segera di-update.
